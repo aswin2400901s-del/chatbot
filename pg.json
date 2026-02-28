@@ -1,0 +1,50 @@
+{
+  "pgAvailableForList": [
+    {"label": "Boys", "key": 1},
+    {"label": "Girls", "key": 2},
+    {"label": "Co-living", "key": 3}
+  ],
+  "pgBestSuitForList": [
+    {"label": "Students", "key": 1},
+    {"label": "Working Professionals", "key": 2},
+    {"label": "All", "key": 3}
+  ],
+  "roomTypes": [
+    {"label": "Private Room", "value": 1},
+    {"label": "Two Sharing", "value": 2},
+    {"label": "Three Sharing", "value": 3},
+    {"label": "Four Sharing", "value": 4},
+    {"label": "Five Sharing", "value": 5},
+    {"label": "Six Sharing", "value": 6},
+    {"label": "Others", "value": 13}
+  ],
+  "pg_AmenitiesList": [
+    {"label": "Gym", "key": 2},
+    {"label": "Wi-Fi Connection", "key": 10},
+    {"label": "Power Backup", "key": 9},
+    {"label": "TV", "key": 11},
+    {"label": "Microwave", "key": 6},
+    {"label": "Washing Machine", "key": 4},
+    {"label": "Dining Area", "key": 14},
+    {"label": "CCTV", "key": 12}
+  ],
+  "pgServiceList": [
+    {"label": "Laundry", "key": 1},
+    {"label": "Security", "key": 4},
+    {"label": "Room Cleaning", "key": 5},
+    {"label": "Biometric", "key": 2},
+    {"label": "Warden", "key": 3}
+  ],
+  "pgFacilitiesList": [
+    {"label": "Air Conditioner", "key": 31},
+    {"label": "Attached Bathroom", "key": 21},
+    {"label": "Geyser", "key": 19},
+    {"label": "Table Fan", "key": 30},
+    {"label": "Cupboard", "key": 29}
+  ],
+  "meels": [
+    {"label": "Breakfast", "key": 1},
+    {"label": "Lunch", "key": 2},
+    {"label": "Dinner", "key": 3}
+  ]
+}

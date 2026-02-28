@@ -1,0 +1,57 @@
+{
+  "Bhks": [
+    {"bhk": "1 RK", "id": 3550},
+    {"bhk": "1 BHK", "id": 3551},
+    {"bhk": "2 BHK", "id": 3552},
+    {"bhk": "3 BHK", "id": 3553},
+    {"bhk": "4 BHK", "id": 3554},
+    {"bhk": "5 BHK", "id": 3555}
+  ],
+  "Furnish": [
+    {"furnish": "Semi furnished", "id": 1},
+    {"furnish": "Furnished", "id": 2},
+    {"furnish": "Unfurnished", "id": 3}
+  ],
+  "Tenants": [
+    {"tenants": "Bachelor", "id": 1},
+    {"tenants": "Family", "id": 2},
+    {"tenants": "Anyone", "id": 3},
+    {"tenants": "Ladies", "id": 4}
+  ],
+  "Propertytype": [
+    {"propertytype": "Apartment", "id": 1},
+    {"propertytype": "Villa", "id": 2},
+    {"propertytype": "Plot", "id": 3},
+    {"propertytype": "Independent House", "id": 4}
+  ],
+  "Amenities": [
+    {"amenities": "Gym", "id": 45},
+    {"amenities": "Swimming Pool", "id": 49},
+    {"amenities": "Power Backup", "id": 32},
+    {"amenities": "Car Parking", "id": 41},
+    {"amenities": "Club House", "id": 43},
+    {"amenities": "Elevator", "id": 37},
+    {"amenities": "Garden", "id": 28},
+    {"amenities": "Wifi", "id": 36}
+  ],
+  "Doorface": [
+    {"doorface": "East", "id": 1},
+    {"doorface": "West", "id": 2},
+    {"doorface": "South", "id": 3},
+    {"doorface": "North", "id": 4}
+  ],
+  "Nearby": [
+    {"nearby": "Restaurant", "id": 1},
+    {"nearby": "Hospital", "id": 2},
+    {"nearby": "Metro Station", "id": 3},
+    {"nearby": "Super Market", "id": 4},
+    {"nearby": "Bus Stand", "id": 5}
+  ],
+  "Bathroom": [
+    {"bathroom": "1", "id": 24750},
+    {"bathroom": "2", "id": 24751},
+    {"bathroom": "3", "id": 24752},
+    {"bathroom": "4", "id": 24753},
+    {"bathroom": "5", "id": 24754}
+  ]
+}

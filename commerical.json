@@ -1,0 +1,64 @@
+{
+  "commercialPropertyTypeList": [
+    {"label": "Office Space", "key": 1},
+    {"label": "Shop/Showroom", "key": 2},
+    {"label": "Plot", "key": 3},
+    {"label": "Co-working space", "key": 4},
+    {"label": "Warehouse", "key": 5},
+    {"label": "Others", "key": 6}
+  ],
+  "buildingTypeList": [
+    {"label": "Independent Building", "key": 1},
+    {"label": "Shared Building", "key": 2},
+    {"label": "Commercial Complex", "key": 3},
+    {"label": "Industrial Building", "key": 4},
+    {"label": "Shed", "key": 5},
+    {"label": "Mall", "key": 6},
+    {"label": "Suitable For All", "key": 7},
+    {"label": "Others", "key": 9}
+  ],
+  "furnishTypeList": [
+    {"label": "Furnished", "key": 1},
+    {"label": "Semi Furnish", "key": 2},
+    {"label": "Unfurnish", "key": 3}
+  ],
+  "officeSuitedFor": [
+    {"label": "IT park", "key": 1},
+    {"label": "Business Park", "key": 2},
+    {"label": "Startup Hub", "key": 3},
+    {"label": "Corporate Office", "key": 4},
+    {"label": "Call Center", "key": 5},
+    {"label": "BPO", "key": 6},
+    {"label": "Consultancy", "key": 7},
+    {"label": "Headquarters", "key": 8},
+    {"label": "Regional Office", "key": 9},
+    {"label": "Others", "key": 10}
+  ],
+  "commercial_AmenitiesList": [
+    {"label": "Air Conditioner", "key": 12},
+    {"label": "Internet Connectivity", "key": 23},
+    {"label": "Fridge", "key": 24},
+    {"label": "Microwave", "key": 25},
+    {"label": "Mineral Water", "key": 26},
+    {"label": "Elevator", "key": 28},
+    {"label": "GYM", "key": 29},
+    {"label": "Power Backup", "key": 31},
+    {"label": "Biometrics", "key": 32},
+    {"label": "TV", "key": 35},
+    {"label": "CCTV", "key": 36},
+    {"label": "Garden", "key": 37},
+    {"label": "EV Charging Station", "key": 38},
+    {"label": "Pet Friendly", "key": 39},
+    {"label": "Indoor Games", "key": 40}
+  ],
+  "propertyStatusList": [
+    {"label": "Ready to move", "key": 1},
+    {"label": "Under construction", "key": 2}
+  ],
+  "propertyFacingList": [
+    {"label": "North", "key": 1},
+    {"label": "South", "key": 2},
+    {"label": "West", "key": 3},
+    {"label": "East", "key": 4}
+  ]
+}
